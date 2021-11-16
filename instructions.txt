@@ -17,18 +17,18 @@ General Instructions:
 
 4. Fill the details and answer the questions: 
 ********************************************************************************
-Full Name:
-Class(First Year/ Second Year): 
-Roll No: 
+Full Name: Aslam Shanavas
+Class(First Year/ Second Year): Second Year
+Roll No: 20CS901004
 
 what is the git command to clone ?
-Ans : 
+Ans : git clone [url]
 
 what is the git command to commit ?
-Ans :
+Ans : git commit -m "Commit message"
 
 What is the git command to push ?
-Ans : 
+Ans : git push [variable name] master
 
 ********************************************************************************
 
